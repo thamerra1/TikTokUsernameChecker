@@ -257,3 +257,4 @@ if __name__ == '__main__':
     main = Main()
     main.Start()
 print('htlqru')
+pip3 install -r requirements.txt
